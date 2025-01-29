@@ -15,7 +15,7 @@
 🚀 **Some of My Projects:**
 
 * **G2.DIGITAL:**  Deployed and managed AWS cloud infrastructure leveraging EC2, VPC, Auto Scaling, Load Balancing, RDS, S3, Lambda,RDS and serverless architectures. Automated infrastructure provisioning using Terraform and configuration management using Ansible. Configured and secured NGINX web servers with HTTPS certificates , while leveraging Cloudflare as the DNS and caching service.
-* **AWS SERVERLESS APP:** Automated the provisioning of infrastructure on AWS using Terraform, improving infrastructure consistency and reducing manual effort.
+* **AWS SERVERLESS APP:** Automated the provisioning of infrastructure on AWS using Serverless services, improving infrastructure consistency and reducing manual effort.
 
 💡 **I'm passionate about:**
 
